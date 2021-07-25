@@ -7,7 +7,7 @@
 [El efecto del covid-19 en la rentabilidad del BCP](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
 <br><br>
 Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al Abril 2021. [Seguir leyendo en Medium](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067) o [Ver código en GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
-[<img src="images/cerdo.jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
+[<img src="images/cerdo-min (1).jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 
 
 
