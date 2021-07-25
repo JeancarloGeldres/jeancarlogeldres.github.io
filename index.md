@@ -26,12 +26,13 @@ Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al 
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/jeancarlo-geldres-v%C3%A1squez-251a19179/)
+- Envíame un mensaje a <jeancarlogeldres@hotmail.com>
 - [GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 - [Twitter](https://twitter.com/JeancarloGeldr1)
 - [Medium](https://medium.com/@jeancarlogv10)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+
 
 ---
 
