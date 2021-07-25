@@ -1,10 +1,10 @@
-# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenido a mi Portfolio de Ciencia de Datos
 
 ---
 
 ### Mi primer proyecto
 
-[Titulo del proyecto con enlace](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
+[El efecto del covid-19 en la rentabilidad del BCP](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
 Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al Abril 2021. [Seguir leyendo en Medium](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067) o [Ver código en GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 [<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 
