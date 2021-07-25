@@ -1,29 +1,37 @@
-## Portfolio
+# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
 
 ---
 
-### Category Name 1 
+### Mi primer proyecto
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Titulo del proyecto con enlace](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067)
+Evaluación de la tasa de crecimiento del ROA durante en período Enero 2014 al Abril 2021. [Seguir leyendo en Medium](https://medium.com/@jeancarlogv10/el-efecto-del-covid-19-en-la-rentabilidad-del-bcp-a56fd9392067) o [Ver código en GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+### Mis Skills son
+
+- Python
+- R
+- Excel
+- ...
 
 ---
 
-### Category Name 2
+### Me puedes contactar por una de estás vías
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
+- Correo electrónico a <correo@gmail.com>
+- [GitHub](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
+- [Twitter](https://twitter.com/JeancarloGeldr1)
+- [Medium](https://medium.com/@jeancarlogv10)
+- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
 
