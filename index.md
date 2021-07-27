@@ -1,5 +1,8 @@
 # Bienvenido a mi Portafolio de Ciencia de Datos
-
+<br><br>
+<a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+<br><br>
+<a href="/pdf/Efecto de los factores internos en la rentabilidad bancaria.pdf">Mira mi Tesis de Bachiller </a>
 ---
 
 ### Mi primer proyecto
