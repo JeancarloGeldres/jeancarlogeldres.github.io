@@ -19,13 +19,22 @@ Evaluación del modelo para los primeros meses del 2021.[Seguir leyendo en Mediu
 [<img src="images/pararara.jpg?raw=true"/>](https://github.com/JeancarloGeldres/Analysis-Factors-Interns-)
 
 ---
+[Predicción del costo de seguro médico](https://medium.com/@jeancarlogv10/predicci%C3%B3n-del-costo-de-seguro-m%C3%A9dico-ba1cefcdf57e)
+<br><br>
+Evaluación de los factores que determinan el precio de un seguro médico.[Seguir leyendo en Medium](https://medium.com/@jeancarlogv10/predicci%C3%B3n-del-costo-de-seguro-m%C3%A9dico-ba1cefcdf57e) o [Ver código en GitHub](https://github.com/JeancarloGeldres/Model-of-Cost-of-health-insurance)
+[<img src="images/cura.jpg?raw=true"/>](https://github.com/JeancarloGeldres/Model-of-Cost-of-health-insurance)
+
+---
 
 ### Mis Skills son
 
 - Python
-- R
 - Excel
-- ...
+- Power Point
+- Word
+- Power BI
+- R
+- Tableau
 
 ---
 
