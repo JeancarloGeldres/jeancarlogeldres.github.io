@@ -15,9 +15,17 @@
       background-color: #000000; /* Fondo negro */
     }
     
-    .wrapper, header, section, footer, p, li, a { /* Selecciona todos los elementos deseados */
-      color: #FF0000; /* Letras rojas */
-      font-weight: bold; /* Letras más gruesas */
+    .wrapper, header, section, footer, p, li { /* Selecciona elementos no enlazados */
+      color: #808080; /* Texto gris */
+    }
+
+    h1, h2, h3, h4, h5, h6 { /* Selecciona todos los niveles de títulos */
+      color: #FFFFFF; /* Títulos en blanco */
+    }
+
+    a { /* Selecciona todos los enlaces */
+      color: #FF0000; /* Enlaces rojos */
+      font-weight: bold; /* Hace el texto de los enlaces más grueso */
     }
   </style>
 </head>
@@ -41,7 +49,6 @@
       {% if site.github.is_user_page %}
       <p class="view"><a href="{{ site.github.owner_url }}">Mira mi perfil de GitHub</a></p>
       {% endif %}
-      
       -->
 
       {% if site.show_downloads %}
