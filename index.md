@@ -3,7 +3,15 @@
 <br><br>
 <a href="/pdf/Efecto de los factores internos en la rentabilidad bancaria.pdf">Mira mi Tesis de Bachiller </a>
 
+
+### Diario Quant · Trading simulado
+
+[Primera compra y venta en Alpaca Paper: SPY, resultado −USD 0,02](/quant-lab/primera-operacion-paper/)
+
+Registro de investigación con operaciones simuladas verificadas, fuentes fechadas y resultados completos. Sin dinero real ni promesas de rentabilidad.
+
 ---
+
 
 ### Mi primer proyecto
 
